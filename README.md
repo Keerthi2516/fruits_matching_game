@@ -1,5 +1,5 @@
 # fruits_matching_game
-# Candy Crush Game
+
 
 A simple implementation of a Candy Crush-style matching game using Python and Tkinter.
 
@@ -14,7 +14,7 @@ This is a desktop version of the popular Candy Crush game where players match id
 
 ## Game Elements
 
-### Candies and Points
+### Candies/fruits and Points
 - 🍎 Apple: 3 points
 - 🍌 Banana: 4 points
 - 🍇 Grapes: 5 points
