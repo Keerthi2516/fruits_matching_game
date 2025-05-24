@@ -5,7 +5,7 @@ A simple implementation of a Candy Crush-style matching game using Python and Tk
 
 ## Description
 
-This is a desktop version of the popular Candy Crush game where players match identical candies to score points. The game features:
+This is a desktop version of the popular Candy Crush game where players match identical candies/fruits to score points. The game features:
 - 5 different types of candies with different point values
 - Random moves limit per game
 - Target score to achieve
